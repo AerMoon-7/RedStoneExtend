@@ -18,6 +18,9 @@
 		"main": [
 			"name.autumn.RedStoneExtend"
 		],
+		"client": [
+			"name.autumn.RedStoneExtendClient"
+		],
 		"fabric-datagen": [
 			"name.autumn.RedStoneExtendDataGenerator"
 		]
