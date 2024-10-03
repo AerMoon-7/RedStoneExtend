@@ -1,22 +1,25 @@
 {
 	"schemaVersion": 1,
-	"id": "redstoneextend",
+	"id": "autumn",
 	"version": "${version}",
 	"name": "RedStoneExtend",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "RedStoneExtend!",
 	"authors": [
-		"Me!"
+		"AutumnMoon"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/AerMoon-7/RedStoneExtend",
+		"sources": "https://github.com/AerMoon-7/RedStoneExtend.git"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/redstoneextend/icon.png",
+	"icon": "assets/autumn/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"name.autumn.RedStoneExtend"
+		],
+		"client": [
+			"name.autumn.RedStoneExtendClient"
 		],
 		"fabric-datagen": [
 			"name.autumn.RedStoneExtendDataGenerator"

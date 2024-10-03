@@ -1,0 +1,6 @@
+{
+  "itemgroup.autumn.extend": "RedStoneExtend",
+
+  "item.autumn.ironstone": "IronStone",
+  "block.autumn.ironstone_block": "IronStone Block"
+}
