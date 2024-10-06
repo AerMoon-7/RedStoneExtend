@@ -9,7 +9,7 @@
     "*": {
       "item": "minecraft:redstone"
     },
-    "R": {
+    "#": {
       "item": "minecraft:iron_nugget"
     }
   },
